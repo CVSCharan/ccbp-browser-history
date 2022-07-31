@@ -1,0 +1,39 @@
+.history-item {
+  display: flex;
+  align-items: center;
+  margin: 7px;
+}
+
+.time {
+  margin-right: 50px;
+}
+
+* {
+  font-family: "Roboto";
+  font-size: 15px;
+  text-align: left;
+}
+
+.logo {
+  margin-right: 60px;
+}
+
+.button {
+  outline: none;
+  background-color: transparent;
+  border-width: 0px;
+  justify-content: flex-end;
+}
+
+.domain {
+  margin-right: 30px;
+  margin-left: 30px;
+  font-weight: 300;
+}
+
+.list-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
